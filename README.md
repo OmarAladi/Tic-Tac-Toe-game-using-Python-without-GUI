@@ -8,9 +8,6 @@ This is a simple command-line implementation of the classic Tic Tac Toe game usi
 - [How to Play](#how-to-play)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
